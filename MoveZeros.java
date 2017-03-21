@@ -18,7 +18,7 @@ public class Solution {
                  
              }
              
-             nums = swapNumber(nums , i ,zeroTracker);
+             nums = swapNumbers(nums , i ,zeroTracker);
              //zeroTracker++;
          }
          
